@@ -22,4 +22,9 @@ DSA problems that i solve
 |  |
 | ------- |
 | [0874-walking-robot-simulation](https://github.com/kanha638/dsa-problems/tree/master/0874-walking-robot-simulation) |
+| [2069-walking-robot-simulation-ii](https://github.com/kanha638/dsa-problems/tree/master/2069-walking-robot-simulation-ii) |
+## Design
+|  |
+| ------- |
+| [2069-walking-robot-simulation-ii](https://github.com/kanha638/dsa-problems/tree/master/2069-walking-robot-simulation-ii) |
 <!---LeetCode Topics End-->
