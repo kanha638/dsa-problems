@@ -27,4 +27,12 @@ DSA problems that i solve
 |  |
 | ------- |
 | [2069-walking-robot-simulation-ii](https://github.com/kanha638/dsa-problems/tree/master/2069-walking-robot-simulation-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/kanha638/dsa-problems/tree/master/0338-counting-bits) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/kanha638/dsa-problems/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
