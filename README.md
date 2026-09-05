@@ -8,6 +8,7 @@ DSA problems that i solve
 | ------- |
 | [0001-two-sum](https://github.com/kanha638/dsa-problems/tree/master/0001-two-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kanha638/dsa-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kanha638/dsa-problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0874-walking-robot-simulation](https://github.com/kanha638/dsa-problems/tree/master/0874-walking-robot-simulation) |
 | [3875-construct-uniform-parity-array-i](https://github.com/kanha638/dsa-problems/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
@@ -32,9 +33,14 @@ DSA problems that i solve
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kanha638/dsa-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kanha638/dsa-problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0338-counting-bits](https://github.com/kanha638/dsa-problems/tree/master/0338-counting-bits) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/kanha638/dsa-problems/tree/master/0338-counting-bits) |
+## Greedy
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kanha638/dsa-problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
