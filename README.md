@@ -43,4 +43,12 @@ DSA problems that i solve
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kanha638/dsa-problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Linked List
+|  |
+| ------- |
+| [0086-partition-list](https://github.com/kanha638/dsa-problems/tree/master/0086-partition-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0086-partition-list](https://github.com/kanha638/dsa-problems/tree/master/0086-partition-list) |
 <!---LeetCode Topics End-->
